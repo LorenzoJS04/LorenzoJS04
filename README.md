@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**LorenzoJS04/LorenzoJS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lorenzo J Shepherd, citizen of the glorious country of **Australia**, however currently am in the country, that apparently is called the United Kingdom.
 
-Here are some ideas to get you started:
+I am somewhat skilled in Git, Helm, Kubernetes, Google Workspace (admin console, etc), IT Networking, Computer Hardware, and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope that it does not stur any feelings, but I do use Arch Linux on the daily, paired with i3 and Xorg. Hence me saying that **I use Arch Linux btw**.
+
+Currenty working as a Junior DevOps engineer (apprentice) @ LiveWyer
+
+## What's new!
+
+Nothing really.
+
+## Socials (how to reach me)
+
+I do have some social media platforms that you can reach out to me on (or at least the ones that I want you to know...):
+
+- [GitHub](https://github.com/LorenzoJS04) (just a redirect to the page your on currently)
+- [LinkedIn](www.linkedin.com/in/lorenzojshepherd)
+- [Steam](https://steamcommunity.com/id/L0R3N30/)
